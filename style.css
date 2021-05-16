@@ -1,0 +1,163 @@
+
+.container {
+	position: relative;
+}
+.logo{
+	padding-top: 46px;
+}
+
+.nav_menu {
+	list-style-type: none;
+	display: flex;
+	height: 16px;
+	margin-left: 16px;
+	margin-top: -50px;
+	font-size: 16px;
+
+	
+	
+}
+a {
+	color: #000;
+	padding: 0 30px;
+	text-decoration: none;
+}
+a:hover{
+	color: #000;
+	text-decoration: none;
+}
+.img {
+	position: absolute;
+	margin-top: 267px;
+}
+.present h1 {
+	margin-top: 246px;
+	position: absolute;
+	
+
+}
+.present p {
+	height: 67px;
+	width: 540px;
+	position: absolute;
+	margin-top: 351px;
+}
+
+.present .button_write {
+	background: #00406b;
+	height: 65px;
+	width: 225px;
+	margin-top: 478px;
+	margin-left: 0;
+
+}
+.block {
+	background-color: #00406b;
+	display: block;
+	margin-top: 100px;
+	height: 180px;
+	width: 100%
+	
+}
+.picture1{
+	height: 50px;
+	width: 50px;
+	margin-top: 65px;
+	margin-left: 120px;
+	
+}
+.picture2 {
+	height: 50px;
+	width: 50px;
+	margin-top: 65px;
+	margin-left: 140px;
+}
+.picture {
+	height: 50px;
+	width: 50px;
+	margin-top: 65px;
+}
+.text3{
+	margin-top: 304px;
+}
+.text4 img{
+	height: 450px;
+	width: 555px;
+	margin-top: -300px;
+}
+
+.text{
+	
+	position: absolute;
+	margin-top: 100px;
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+}
+.text2 p{
+	margin-top: 180px;
+	height: 67px;
+	width: 540px;
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.video{
+	position: absolute;
+	margin-top: 304px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.nextstep img{
+	height: 380px;
+	width: 380px;
+	display: inline;
+	margin-top: 800px;
+	border: 0;
+	padding: 0;
+	margin-left: 0;
+}
+.nextstep1 img{
+	height: 380px;
+	width: 380px;
+	margin-top: 0px;
+}
+.row_6 img {
+	display: inline;
+	height: 130px;
+	width: 160px;
+	margin-right: 120px;
+}
+.form input{
+	height: 175px;
+	width: 540px;
+	margin-left: -10px;
+}
+
+.block1 {
+	color: white;
+	background-color: #00406b;
+	margin-top: 100px;
+	height: 70px;
+	width: 100%;
+}
+.block1 .special{
+	display: flex;
+	 align-self: flex-start;
+	margin-top: -60px;
+    margin-left: 1300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
